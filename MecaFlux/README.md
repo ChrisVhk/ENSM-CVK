@@ -8,20 +8,21 @@ Module de mécanique des fluides numérique (CFD) avec OpenFOAM 2412.
 
 ```
 MecaFlux/
-├── InstallOpenFoam/     — Guide d'installation OpenFOAM 2412
 └── Poiseuille/          — TP CFD : Écoulement de Hagen-Poiseuille
 ```
+
+→ Installation OpenFOAM : voir [`../Logiciels&IDE&WSL/OpenFOAM/`](../Logiciels%26IDE%26WSL/OpenFOAM/)
 
 ---
 
 ## Installation OpenFOAM 2412
 
-→ Voir [`InstallOpenFoam/Install_OpenFoam2412.md`](InstallOpenFoam/Install_OpenFoam2412.md)
+→ Voir [`../Logiciels&IDE&WSL/OpenFOAM/Install_OpenFoam2412.md`](../Logiciels%26IDE%26WSL/OpenFOAM/Install_OpenFoam2412.md)
 
 Prérequis : Ubuntu 22.04 / 24.04 (natif ou WSL2).
 
 ```bash
-bash InstallOpenFoam/install_openfoam2412.sh
+bash ../Logiciels\&IDE\&WSL/OpenFOAM/install_openfoam2412.sh
 ```
 
 ---

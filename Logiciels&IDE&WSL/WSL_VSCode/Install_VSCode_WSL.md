@@ -303,4 +303,4 @@ Codename:       noble
 ## Prochaine étape
 
 Une fois WSL + VS Code installés, vous pouvez suivre le guide d'installation OpenFOAM :  
-→ [`../MecaFlux/InstallOpenFoam/Install_OpenFoam2412.md`](../MecaFlux/InstallOpenFoam/Install_OpenFoam2412.md)
+→ [`../OpenFOAM/Install_OpenFoam2412.md`](../OpenFOAM/Install_OpenFoam2412.md)

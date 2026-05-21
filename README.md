@@ -9,10 +9,12 @@ Dépôt public des supports de TP pour les étudiants de l'École Nationale Sup�
 ```
 Etudiants/
 ├── InstallOff/          — Installation pandapower & OpenFAST (NREL)
+├── Logiciels&IDE&WSL/   — Outils & environnement de développement
+│   ├── WSL_VSCode/      — Installation WSL + VS Code (Windows)
+│   ├── Python/          — Dépendances Python pour le post-traitement
+│   └── OpenFOAM/        — Guide d'installation OpenFOAM 2412
 ├── MecaFlux/            — Mécanique des fluides numérique (OpenFOAM)
-├── Python&Dep/          — Dépendances Python pour le post-traitement
 ├── TenueMer/            — Tenue à la mer : Capytaine & Nemoh V3
-├── VScode&WSL/          — Environnement WSL + VS Code (Windows)
 └── scripts/             — Scripts utilitaires
 ```
 
@@ -32,23 +34,23 @@ Etudiants/
 
 ### 1. WSL + VS Code (Windows)
 
-→ [`VScode&WSL/Install_VSCode_WSL.md`](VScode%26WSL/Install_VSCode_WSL.md)
+→ [`Logiciels&IDE&WSL/WSL_VSCode/Install_VSCode_WSL.md`](Logiciels%26IDE%26WSL/WSL_VSCode/Install_VSCode_WSL.md)
 
 ### 2. Dépendances Python
 
 ```bash
-bash Python\&Dep/install_python_deps.sh
+bash Logiciels\&IDE\&WSL/Python/install_python_deps.sh
 ```
 
-→ [`Python&Dep/Install_Python_Deps.md`](Python%26Dep/Install_Python_Deps.md)
+→ [`Logiciels&IDE&WSL/Python/Install_Python_Deps.md`](Logiciels%26IDE%26WSL/Python/Install_Python_Deps.md)
 
 ### 3. OpenFOAM 2412
 
 ```bash
-bash MecaFlux/InstallOpenFoam/install_openfoam2412.sh
+bash Logiciels\&IDE\&WSL/OpenFOAM/install_openfoam2412.sh
 ```
 
-→ [`MecaFlux/InstallOpenFoam/Install_OpenFoam2412.md`](MecaFlux/InstallOpenFoam/Install_OpenFoam2412.md)
+→ [`Logiciels&IDE&WSL/OpenFOAM/Install_OpenFoam2412.md`](Logiciels%26IDE%26WSL/OpenFOAM/Install_OpenFoam2412.md)
 
 ---
 
